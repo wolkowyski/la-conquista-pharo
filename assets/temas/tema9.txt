@@ -1,0 +1,21 @@
+Cine Argentino
+¿Qué película argentina ganó el Oscar en 1986?;El Secreto de Sus Ojos;La Historia Oficial;Nueve Reinas;Relatos Salvajes;2
+¿Quién dirigió "El Secreto de Sus Ojos"?;Campanella;Damián Szifron;Luis Puenzo;Pablo Trapero;1
+¿Qué actriz protagonizó "La Historia Oficial"?;Norma Aleandro;Soledad Villamil;Graciela Borges;Érica Rivas;1
+¿En qué año se estrenó "Relatos Salvajes"?;2012;2013;2014;2015;3
+¿Quién protagonizó "El Clan"?;Ricardo Darín;Guillermo Francella;Oscar Martínez;Leonardo Sbaraglia;2
+¿Qué género caracteriza a "El secreto de sus ojos"?;Drama;Comedia;Suspenso;Terror;3
+¿Qué película es considerada un clásico del cine argentino?;Esperando la Carroza;Relatos Salvajes;Nueve Reinas;El Hijo de la Novia;1
+¿Quién protagonizó "Nueve Reinas"?;Ricardo Darín;Guillermo Francella;Diego Peretti;Oscar Martínez;1
+¿Qué director dirigió "La odisea de los giles"?;Sebastián Borensztein;Juan José Campanella;Luis Puenzo;Damián Szifron;1
+¿Quién dirigió "Carancho"?;Luis Ortega;Pablo Trapero;Juan José Campanella;Damián Szifron;2
+¿Qué película fue nominada al Oscar en 2014?;Relatos Salvajes;El Clan;El Hijo de la Novia;Nueve Reinas;1
+¿Qué director es conocido por "El Ángel"?;Luis Ortega;Pablo Trapero;Juan José Campanella;Damián Szifron;1
+¿Qué actriz protagonizó "El Hijo de la Novia"?;Norma Aleandro;Soledad Villamil;Graciela Borges;Érica Rivas;4
+¿En qué película aparece la frase "Yo hago ravioles, ella hace ravioles"?;Esperando la Carroza;Nueve Reinas;El Secreto de Sus Ojos;La Historia Oficial;1
+¿Quién protagonizó "El Ciudadano Ilustre"?;Ricardo Darín;Guillermo Francella;Oscar Martínez;Norman Briski;3
+¿Qué actor es conocido como "el Ricardo Darín joven"?;Peter Lanzani;Chino Darín;Diego Peretti;Leonardo Sbaraglia;2
+¿Quién es el director de "Zama"?;Lucrecia Martel;Damián Szifron;Luis Puenzo;Juan José Campanella;1
+¿Qué película fue adaptada de un libro de Eduardo Sacheri?;Relatos Salvajes;El Secreto de Sus Ojos;El Clan;Esperando la Carroza;2
+¿En qué película aparece el personaje de Mamá Cora?;Nueve Reinas;Esperando la Carroza;El Hijo de la Novia;Relatos Salvajes;2
+¿Qué película narra la dictadura militar en Argentina?;La Historia Oficial;El Secreto de Sus Ojos;Nueve Reinas;Relatos Salvajes;1

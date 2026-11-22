@@ -1,0 +1,20 @@
+Física
+¿Qué es la gravedad?;La fuerza que impulsa;La fuerza de atracción entre masas;La fuerza que se opone al movimiento;La velocidad de un objeto;2
+¿Quién formuló las leyes del movimiento?;Galileo Galilei;Isaac Newton;Albert Einstein;Marie Curie;2
+¿Qué unidad mide la fuerza?;Newton;Joule;Pascal;Watt;1
+¿Qué es la energía cinética?;Energía almacenada;Energía en movimiento;Energía térmica;Energía electromagnética;2
+¿A qué velocidad viaja la luz?;300.000 km/h;300.000 m/s;150.000 m/s;150.000 km/h;2
+¿Qué fenómeno explica la dispersión de luz?;Refracción;Reflexión;Difracción;Interferencia;1
+¿Qué estudia la termodinámica?;La luz;El calor y la energía;Los átomos;El magnetismo;2
+¿Qué es un electrón?;Una partícula con carga positiva;Una partícula con carga negativa;Una partícula neutra;Un núcleo de átomo;2
+¿Qué tipo de onda es la luz?;Mecánica;Electromagnética;Sonora;Térmica;2
+¿Qué es la velocidad?;La distancia dividida por el tiempo;La masa por la fuerza;La distancia por el tiempo;El cambio de energía;1
+¿Qué es la inercia?;La capacidad de un objeto de moverse;La resistencia al cambio de movimiento;La fuerza necesaria para mover algo;La velocidad constante de un objeto;2
+¿Qué es el trabajo en física?;Una tarea diaria;Fuerza aplicada sobre una distancia;La masa por la gravedad;La energía almacenada;2
+¿Qué significa E=mc²?;La energía depende de la masa y la velocidad;La masa equivale a la energía al cuadrado;La energía es igual a la masa por la velocidad de la luz al cuadrado;La energía aumenta con el calor;3
+¿Qué mide el voltaje?;La corriente eléctrica;La resistencia;La diferencia de potencial eléctrico;La potencia eléctrica;3
+¿Qué es un circuito eléctrico?;Un flujo de agua;Un sistema cerrado de corriente;Una batería;Un imán;2
+¿Qué fenómeno explica por qué flota un barco?;El principio de Bernoulli;El principio de Arquímedes;La ley de Ohm;La ley de Pascal;2
+¿Qué es una máquina simple?;Un sistema mecánico complejo;Un dispositivo básico que realiza trabajo;Un generador de energía;Un transformador de corriente;2
+¿Qué es un átomo?;La partícula más pequeña de un compuesto;La unidad básica de materia;Un núcleo con carga negativa;Una molécula;2
+¿Qué estudia la óptica?;El calor;La luz;El sonido;La gravedad;2

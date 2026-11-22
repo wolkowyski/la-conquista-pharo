@@ -1,0 +1,21 @@
+Ciencia
+¿Cuál es el elemento químico más abundante en el universo?;Oxígeno;Hidrógeno;Carbono;Helio;2
+¿Quién formuló la teoría de la relatividad?;Isaac Newton;Albert Einstein;Marie Curie;Charles Darwin;2
+¿En qué unidad se mide la fuerza?;Joule;Newton;Pascal;Watt;2
+¿Cuál es el planeta más grande del sistema solar?;Tierra;Júpiter;Saturno;Neptuno;2
+¿Qué órgano bombea la sangre en el cuerpo humano?;Pulmones;Hígado;Corazón;Cerebro;3
+¿Quién descubrió la penicilina?;Alexander Fleming;Marie Curie;Louis Pasteur;Charles Darwin;1
+¿En qué estado de la materia está el agua a 100 °C?;Sólido;Líquido;Gas;Plasma;3
+¿Cuántos huesos tiene un adulto promedio?;206;208;210;212;1
+¿Qué tipo de animal es un delfín?;Pez;Mamífero;Reptil;Anfibio;2
+¿Qué significa ADN?;Ácido nucleico desoxirribosa;Ácido desoxirribonucleico;Ácido ribonucleico;Ácido nucleico ribosa;2
+¿Quién propuso la teoría de la evolución?;Charles Darwin;Gregor Mendel;Isaac Newton;Albert Einstein;1
+¿Qué fuerza nos mantiene en el suelo?;Inercia;Fricción;Gravedad;Magnetismo;3
+¿Qué planeta es conocido como el "planeta rojo"?;Marte;Júpiter;Saturno;Venus;1
+¿En qué año llegó el hombre a la luna?;1965;1969;1971;1975;2
+¿Cuál es el metal más liviano?;Aluminio;Oro;Litio;Hierro;3
+¿En qué se mide la energía?;Newton;Joule;Pascal;Kelvin;2
+¿Qué científico desarrolló las leyes del movimiento?;Isaac Newton;Albert Einstein;Galileo Galilei;Niels Bohr;1
+¿Qué gas respiramos para sobrevivir?;Nitrógeno;Hidrógeno;Oxígeno;Dióxido de carbono;3
+¿Cuál es el órgano más grande del cuerpo humano?;Hígado;Pulmones;Piel;Corazón;3
+¿En qué parte de la célula ocurre la respiración celular?;Núcleo;Mitocondria;Ribosomas;Cloroplastos;2

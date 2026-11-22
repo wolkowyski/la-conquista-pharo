@@ -1,0 +1,21 @@
+Química
+¿Qué es un elemento químico?;Una mezcla;Una sustancia pura;Una combinación de compuestos;Un estado de la materia;2
+¿Cuál es el símbolo del agua?;H;O;H2O;OH;3
+¿Qué gas es esencial para la respiración?;Nitrógeno;Oxígeno;Hidrógeno;Dióxido de carbono;2
+¿Qué mide el pH?;La temperatura;La acidez o alcalinidad;La densidad;La conductividad;2
+¿Cuál es el metal más abundante en la corteza terrestre?;Oro;Plata;Aluminio;Cobre;3
+¿Qué significa "Na" en la tabla periódica?;Nitrógeno;Sodio;Níquel;Neón;2
+¿Qué tipo de enlace une los átomos de agua?;Covalente;Iónico;Metálico;Polar;1
+¿Quién creó la tabla periódica?;Albert Einstein;Marie Curie;Dmitri Mendeléyev;Isaac Newton;3
+¿Qué estado de la materia es el plasma?;Sólido;Líquido;Gas;Un gas ionizado;4
+¿Cuántos elementos tiene la tabla periódica actual?;108;118;128;138;2
+¿Qué elemento tiene el símbolo "Fe"?;Fósforo;Fermio;Hierro;Flúor;3
+¿Qué es un ácido?;Una base;Una sustancia con pH menor a 7;Una sustancia con pH mayor a 7;Un gas;2
+¿Qué tipo de sustancia es el cloruro de sodio?;Una mezcla;Un compuesto;Un elemento;Un átomo;2
+¿Qué partícula tiene carga positiva?;Electrón;Protón;Neutrón;Quark;2
+¿Qué significa HCl?;Ácido sulfúrico;Ácido clorhídrico;Hidrógeno clorado;Compuesto neutro;2
+¿Qué elemento es conocido como "el rey de los metales"?;Plata;Oro;Hierro;Cobre;2
+¿En qué estado se encuentra el mercurio a temperatura ambiente?;Sólido;Líquido;Gas;Plasma;2
+¿Qué es un catalizador?;Un reactivo químico;Una sustancia que acelera una reacción;Una sustancia que ralentiza una reacción;Un compuesto químico;2
+¿Cuál es el gas más ligero?;Helio;Hidrógeno;Oxígeno;Nitrógeno;2
+¿Qué es la electronegatividad?;La capacidad de un átomo para perder electrones;La capacidad de un átomo para atraer electrones;La carga de un átomo;La fuerza de enlace de un átomo;2

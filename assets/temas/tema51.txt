@@ -1,0 +1,21 @@
+Geografía Argentina
+¿Cuál es la capital de Argentina?;Buenos Aires;Córdoba;Rosario;Mendoza;1
+¿En qué continente se encuentra Argentina?;Asia;Europa;América;África;3
+¿Cuál es el río más largo de Argentina?;Río Paraná;Río de la Plata;Río Colorado;Río Uruguay;1
+¿Qué océano baña las costas de Argentina?;Atlántico;Pacífico;Índico;Ártico;1
+¿En qué región está la Patagonia?;Norte;Sur;Centro;Oeste;2
+¿Cuál es la montaña más alta de Argentina?;Aconcagua;Fitz Roy;Lanín;Tupungato;1
+¿Qué país no limita con Argentina?;Bolivia;Chile;Paraguay;Colombia;4
+¿Cuántas provincias tiene Argentina?;22;23;24;25;3
+¿Cuál es la provincia más grande de Argentina?;Buenos Aires;Santa Cruz;Córdoba;Mendoza;1
+¿Qué provincia es conocida por las Cataratas del Iguazú?;Misiones;Corrientes;Chaco;Formosa;1
+¿En qué provincia se encuentra el glaciar Perito Moreno?;Tierra del Fuego;Santa Cruz;Chubut;Neuquén;2
+¿Cuál es la principal actividad económica de la Pampa Húmeda?;Minería;Ganadería;Industria;Turismo;2
+¿Qué cordillera atraviesa el oeste de Argentina?;Los Andes;El Himalaya;Los Alpes;La Sierra Madre;1
+¿Dónde está el Tren a las Nubes?;Mendoza;Salta;Jujuy;Tucumán;2
+¿Cuál es la provincia más austral de Argentina?;Santa Cruz;Chubut;Tierra del Fuego;Neuquén;3
+¿En qué región se encuentra la Quebrada de Humahuaca?;Noroeste;Noreste;Sur;Oeste;1
+¿En qué provincia se encuentra la ciudad de Bariloche?;Chubut;Río Negro;Santa Cruz;Neuquén;2
+¿Qué ciudad es conocida como "la capital nacional del vino"?;Mendoza;Salta;San Juan;Córdoba;1
+¿En qué región se encuentra la Puna?;Noroeste;Noreste;Centro;Patagonia;1
+¿Cuál es el río que forma parte del límite entre Argentina y Uruguay?;Río Paraná;Río de la Plata;Río Uruguay;Río Paraguay;3

@@ -1,0 +1,21 @@
+Lengua
+¿Cuál es el tiempo verbal en "Yo cantaba"?;Presente;Pretérito imperfecto;Futuro;Condicional;2
+¿Qué es un sustantivo?;Una acción;Un objeto;Un adjetivo;Un lugar;2
+¿Cuál de estas palabras es un sinónimo de "feliz"?;Triste;Contento;Aburrido;Cansado;2
+¿Cuál de estas palabras lleva tilde?;Cancion;Pasion;Corazón;Cerca;3
+¿Cómo se llama la figura literaria que compara dos cosas usando "como"?;Metáfora;Símil;Hipérbole;Personificación;2
+¿Cuál es el antónimo de "grande"?;Pequeño;Rápido;Fuerte;Débil;1
+¿La oración "Pedro estudia en casa" es?;Interrogativa;Enunciativa;Exclamativa;Imperativa;2
+¿Cuál de estas es una vocal cerrada?;A;E;I;O;3
+¿Qué es un adjetivo calificativo?;Describe un sustantivo;Describe un verbo;Es un sustantivo;Describe un adverbio;1
+¿Cuál es el sustantivo en "El auto rojo es rápido"?;Auto;Rojo;Es;Rápido;1
+¿Qué tipo de palabra es "rápidamente"?;Sustantivo;Adjetivo;Adverbio;Verbo;3
+¿Cómo se llama la palabra que une dos oraciones?;Pronombre;Sustantivo;Conjunción;Adjetivo;3
+¿Qué es un verbo regular?;Cambia el radical;Mantiene el radical;No tiene conjugación;Es infinitivo;2
+¿Cuántas sílabas tiene la palabra "camión"?;1;2;3;4;2
+¿Qué es un diptongo?;Unión de vocales abiertas;Unión de vocales cerradas;Unión de vocal abierta y cerrada;Una consonante unida a una vocal;3
+¿Cuál de estas palabras es un verbo?;Correr;Auto;Hermoso;Casa;1
+¿Qué tipo de palabra lleva tilde en la última sílaba?;Aguda;Llana;Esdrújula;Sobreesdrújula;1
+¿Cuál es la figura literaria en "El viento cantaba"?;Metáfora;Personificación;Hipérbole;Paradoja;2
+¿Qué es un pronombre personal?;Un adjetivo;Un verbo;Sustituye al sustantivo;Describe un verbo;3
+¿Qué es una oración compuesta?;Tiene un verbo;Tiene dos o más verbos;Tiene una idea;Es un sustantivo;2

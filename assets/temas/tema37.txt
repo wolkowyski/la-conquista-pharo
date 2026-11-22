@@ -1,0 +1,21 @@
+Deporte Argentino 
+¿Cuál es el deporte más popular en Argentina?;Rugby;Tenis;Fútbol;Hockey;3
+¿Quién es conocido como "El Diego"?;Lionel Messi;Diego Maradona;Gabriel Batistuta;Javier Zanetti;2
+¿Qué selección ganó el Mundial de Fútbol en 1986?;Brasil;Alemania;Argentina;Italia;3
+¿En qué deporte se destacó Gabriela Sabatini?;Tenis;Hockey;Natación;Atletismo;1
+¿Qué selección de rugby representa a Argentina?;Los Teros;Los Jaguares;Los Pumas;Los Cóndores;3
+¿Quién ganó el US Open en 2009?;Juan Martín del Potro;Guillermo Vilas;David Nalbandian;Gastón Gaudio;1
+¿En qué año Argentina ganó su primera Copa América?;1921;1928;1930;1935;1
+¿Qué club es conocido como "El Xeneize"?;River Plate;San Lorenzo;Boca Juniors;Independiente;3
+¿Quién es conocido como "La Pulga"?;Sergio Agüero;Lionel Messi;Ángel Di María;Juan Riquelme;2
+¿En qué año se jugó el Mundial en Argentina?;1974;1978;1982;1986;2
+¿Qué equipo es "La Banda"?;River Plate;Boca Juniors;Independiente;Racing;1
+¿En qué deporte se destacó Luciana Aymar?;Fútbol;Rugby;Hockey;Tenis;3
+¿Cuántas veces ganó Argentina la Copa Davis?;0;1;2;3;2
+¿Quién es el máximo goleador histórico de la selección argentina?;Batistuta;Messi;Maradona;Crespo;2
+¿Cuántas medallas de oro tiene Argentina en los Juegos Olímpicos?;0;5;3;2;3
+¿Qué club argentino tiene más Copas Libertadores?;Boca;River;Independiente;Racing;3
+¿Qué estadio es conocido como "La Bombonera"?;El Monumental;El Cilindro;El Amalfitani;La Bombonera;4
+¿Quién fue el entrenador de Argentina en el Mundial 2022?;Diego Maradona;Lionel Scaloni;Jorge Sampaoli;Gerardo Martino;2
+¿Qué ciudad fue sede de los Juegos Panamericanos en 1995?;Rosario;Mar del Plata;Buenos Aires;Córdoba;2
+¿Cuál es el deporte nacional de Argentina?;Fútbol;Hockey;Pato;Rugby;3

@@ -1,0 +1,21 @@
+Literatura Argentina
+¿Quién escribió "El Aleph"?;Julio Cortázar;Jorge Luis Borges;Ricardo Piglia;Adolfo Bioy Casares;2
+¿Quién es el autor de "Rayuela"?;Gabriel García Márquez;Mario Vargas Llosa;Julio Cortázar;Ernesto Sabato;3
+¿En qué obra aparece "Martín Fierro"?;Cien años de soledad;Don Segundo Sombra;El Matadero;Martín Fierro;4
+¿Qué poeta argentino escribió "Fervor de Buenos Aires"?;Leopoldo Lugones;Jorge Luis Borges;Juan Gelman;Ricardo Piglia;2
+¿Quién escribió "Sobre héroes y tumbas"?;Ernesto Sabato;Jorge Luis Borges;Julio Cortázar;Leopoldo Lugones;1
+¿Qué género literario caracteriza a Borges?;Realismo mágico;Fantasía;Ensayo y cuento;Poesía romántica;3
+¿Qué autor escribió "El túnel"?;Julio Cortázar;Jorge Luis Borges;Ernesto Sabato;Ricardo Piglia;3
+¿Quién escribió "Facundo"?;Esteban Echeverría;Domingo Sarmiento;José Hernández;Ricardo Rojas;2
+¿Cuál de estos escritores pertenece al Romanticismo?;Leopoldo Lugones;Esteban Echeverría;Jorge Luis Borges;Julio Cortázar;2
+¿En qué año se publicó "Rayuela"?;1950;1960;1963;1970;3
+¿Quién escribió "Cien años de soledad"?;Jorge Luis Borges;Julio Cortázar;Gabriel García Márquez;Ernesto Sabato;3
+¿Qué tema aborda "Don Segundo Sombra"?;La vida en el campo;La independencia;El amor;La ciudad;1
+¿Qué escritor argentino ganó el premio Cervantes?;Ricardo Piglia;Juan Gelman;Jorge Luis Borges;Ernesto Sabato;2
+¿Quién escribió "La casa de Asterión"?;Julio Cortázar;Adolfo Bioy Casares;Jorge Luis Borges;Ricardo Piglia;3
+¿Qué autor escribió "El hombre de la esquina rosada"?;Julio Cortázar;Jorge Luis Borges;Ernesto Sabato;Leopoldo Lugones;2
+¿En qué obra aparece el "Gaucho Martín Fierro"?;Don Segundo Sombra;El matadero;Martín Fierro;Facundo;3
+¿Qué escritor colaboró con Borges en "Antología de la literatura fantástica"?;Leopoldo Lugones;Julio Cortázar;Adolfo Bioy Casares;Ernesto Sabato;3
+¿En qué género destaca Esteban Echeverría?;Novela;Poesía;Cuento;Ensayo;2
+¿Qué autor escribió "El reino de este mundo"?;Jorge Luis Borges;Alejo Carpentier;Gabriel García Márquez;Julio Cortázar;2
+¿Quién escribió "El matadero"?;Esteban Echeverría;Domingo Sarmiento;Jorge Luis Borges;Leopoldo Lugones;1

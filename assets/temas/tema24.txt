@@ -1,0 +1,21 @@
+Musica Argentina
+¿Qué género musical es característico de Argentina?;Samba;Tango;Cumbia;Folklore;2
+¿Quién es conocido como "El Zorzal Criollo"?;Carlos Gardel;Atahualpa Yupanqui;Mercedes Sosa;Fito Páez;1
+¿Qué cantante interpretó "Balada para un loco"?;Carlos Gardel;Mercedes Sosa;Astor Piazzolla;Roberto Goyeneche;4
+¿Quién es considerado uno de los pioneros del rock argentino?;Charly García;Luis Alberto Spinetta;Fito Páez;Andrés Calamaro;2
+¿Quién compuso "El día que me quieras"?;Carlos Gardel;Astor Piazzolla;Atahualpa Yupanqui;Aníbal Troilo;1
+¿En qué ciudad nació el tango?;Rosario;Buenos Aires;Córdoba;La Plata;2
+¿Qué género musical es típico del noroeste argentino?;Tango;Folklore;Chacarera;Cumbia;3
+¿Quién es conocido como "El Flaco"?;Luis Alberto Spinetta;Charly García;Andrés Calamaro;Fito Páez;1
+¿En qué banda tocaba Gustavo Cerati?;Soda Stereo;Los Redondos;Divididos;La Renga;1
+¿Qué instrumento caracteriza al tango?;Guitarra;Bandoneón;Piano;Violín;2
+¿Quién es la cantante de "Gracias a la vida"?;Mercedes Sosa;Soledad Pastorutti;Patricia Sosa;Marta Argerich;1
+¿Qué banda popularizó "La Balsa"?;Serú Girán;Manal;Los Gatos;Soda Stereo;3
+¿Quién es conocido por "Sólo le pido a Dios"?;Mercedes Sosa;León Gieco;Luis Alberto Spinetta;Fito Páez;2
+¿Qué banda escribió "Jijiji"?;Soda Stereo;Los Redondos;Divididos;La Renga;2
+¿Qué cantante compuso "11 y 6"?;Charly García;Luis Alberto Spinetta;Fito Páez;Andrés Calamaro;3
+¿Quién fue el director de orquesta de "Adiós Nonino"?;Carlos Gardel;Astor Piazzolla;Aníbal Troilo;León Gieco;2
+¿Qué estilo caracteriza a Mercedes Sosa?;Rock;Folklore;Tango;Pop;2
+¿Quién es considerado el padre del tango?;Carlos Gardel;Julio Sosa;Astor Piazzolla;Juan de Dios Filiberto;1
+¿Qué género fusionó Gustavo Santaolalla con el rock?;Folklore;Tango;Jazz;Cumbia;1
+¿En qué década surgió Soda Stereo?;1970;1980;1990;2000;2

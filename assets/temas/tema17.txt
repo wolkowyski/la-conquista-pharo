@@ -1,0 +1,21 @@
+Matemáticas
+¿Cuál es el resultado de 5 + 7?;10;12;13;15;2
+¿Cuánto es 9 x 8?;72;81;64;63;1
+¿Cuál es el valor de π (aproximado)?;3.14;3.15;3.16;3.17;1
+¿Qué es un número primo?;Divisible solo entre sí y 1;Divisible entre pares;Divisible entre 10;No divisible;1
+¿Cuánto es la raíz cuadrada de 16?;2;4;8;6;2
+Si un triángulo tiene 3 lados iguales, se llama:;Escaleno;Isósceles;Equilátero;Rectángulo;3
+¿Cuánto es 100 dividido por 4?;25;20;24;26;1
+Si A = 3 y B = 5, ¿cuánto es A + B x 2?;13;16;10;8;2
+¿Cuántos grados tiene un triángulo?;90;120;180;360;3
+¿Cuánto es el 20% de 200?;20;40;50;60;2
+Si un cuadrado tiene lados de 5 cm, ¿cuál es su área?;20 cm²;15 cm²;25 cm²;10 cm²;3
+¿Cuál es el perímetro de un triángulo equilátero con lados de 6 cm?;12 cm;18 cm;20 cm;16 cm;2
+¿Cuánto es 2⁵?;8;16;32;64;3
+Si un círculo tiene un radio de 3, su diámetro es:;6;9;12;3;1
+¿Qué significa m en la fórmula y = mx + b?;Pendiente;Ordenada al origen;Constante;Coeficiente independiente;1
+¿Cuánto es 15 x 15?;200;220;225;250;3
+¿Cuánto es la mitad de 150?;65;70;75;85;3
+¿Cómo se llama el lado más largo de un triángulo rectángulo?;Cateto;Hipotenusa;Altura;Base;2
+¿Cuánto es 7! (factorial de 7)?;5040;4030;3020;2010;1
+Si restas 100 - 57, el resultado es:;53;42;43;33;3

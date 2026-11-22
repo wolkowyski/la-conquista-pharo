@@ -1,0 +1,21 @@
+Arte Argentino
+¿Quién pintó "Juanito Laguna"?;Antonio Berni;Benito Quinquela Martín;Xul Solar;Raquel Forner;1
+¿Qué corriente artística representa a Antonio Berni?;Cubismo;Realismo social;Impresionismo;Arte abstracto;2
+¿Qué escultor argentino creó "El Pensador de Rodin"?;Antonio Berni;Luis Perlotti;Eduardo Sívori;Fernando Fader;2
+¿Qué barrio de Buenos Aires es famoso por su arte callejero?;San Telmo;La Boca;Recoleta;Palermo;2
+¿Qué obra es característica de Benito Quinquela Martín?;El puerto de La Boca;Los talleres;Juanito Laguna;El mendigo;1
+¿Qué técnica utiliza Xul Solar?;Acuarela;Grabado;Óleo;Escultura;1
+¿Quién creó la serie "Mujeres llorando"?;Antonio Berni;Luis Felipe Noé;Pablo Picasso;Benito Quinquela Martín;1
+¿Qué artista es conocido por sus retratos de la clase trabajadora?;Antonio Berni;Fernando Fader;Xul Solar;Luis Felipe Noé;1
+¿En qué siglo vivió Xul Solar?;XIX;XX;XXI;XVIII;2
+¿Qué museo argentino está en Recoleta?;MALBA;Museo Nacional de Bellas Artes;MACBA;Fundación Proa;2
+¿Qué artista argentino creó "El obrero y la fábrica"?;Antonio Berni;Quinquela Martín;Xul Solar;Luis Felipe Noé;1
+¿Qué técnica artística caracteriza a Luis Felipe Noé?;Cubismo;Arte abstracto;Arte figurativo;Arte geométrico;2
+¿Qué región inspiró a Fernando Fader?;La Puna;La Cuyo;La Patagonia;El Noroeste;2
+¿Quién es conocido por el arte abstracto en Argentina?;Antonio Berni;Luis Felipe Noé;Xul Solar;Benito Quinquela Martín;3
+¿En qué barrio se encuentra el Caminito?;La Boca;Palermo;Recoleta;San Telmo;1
+¿Qué tema es recurrente en las obras de Berni?;Campos;Barcos;Niños pobres;Naturaleza;3
+¿Qué tipo de pintura es característica de la Pampa?;Retratos;Paisajes;Naturaleza muerta;Arte abstracto;2
+¿Quién creó "El retrato de Ramón Gómez de la Serna"?;Antonio Berni;Xul Solar;Fernando Fader;Luis Felipe Noé;2
+¿Dónde se encuentra el Teatro Colón?;Palermo;Recoleta;San Nicolás;La Boca;3
+¿Qué técnica se usa para pintar murales?;Óleo;Acrílico;Fresco;Grabado;3

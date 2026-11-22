@@ -1,0 +1,21 @@
+Economía Argentina
+¿Cuál es la moneda oficial de Argentina?;Peso;Dólar;Real;Euro;1
+¿Qué producto es el principal exportador de Argentina?;Petróleo;Soja;Carne;Trigo;2
+¿Cuál es el banco central de Argentina?;Banco Nación;Banco Ciudad;Banco Central;Banco Macro;3
+¿Qué significa PBI?;Producto Básico Interno;Producto Bruto Interno;Producción Bruta Industrial;Producto Bruto Internacional;2
+¿En qué año se creó el peso argentino?;1983;1991;2001;2010;2
+¿Qué sector contribuye más al PBI de Argentina?;Agricultura;Industria;Servicios;Minería;3
+¿Qué significa INDEC?;Instituto Nacional de Economía y Censos;Instituto Nacional de Estadísticas y Censos;Instituto Nacional de Datos Económicos y Censos;Instituto de Estadísticas Económicas;2
+¿Qué producto agrícola es mayormente exportado por Argentina?;Maíz;Trigo;Soja;Arroz;3
+¿Cuál es el puerto más importante para exportaciones argentinas?;Puerto de Buenos Aires;Puerto de Rosario;Puerto de La Plata;Puerto de Bahía Blanca;2
+¿En qué año fue la crisis económica conocida como "el corralito"?;1999;2001;2003;2008;2
+¿Qué es el "blue" en la economía argentina?;Un banco;Un dólar paralelo;Un impuesto;Un crédito;2
+¿Cuál es el nombre del acuerdo firmado con el FMI en 2018?;Acuerdo de Basilea;Acuerdo de Stand-by;Acuerdo de Bretton Woods;Acuerdo de París;2
+¿Qué significa IVA?;Impuesto Variable Agrícola;Impuesto al Valor Agregado;Impuesto Variable Adicional;Impuesto al Valor Actual;2
+¿Qué región es conocida por su producción de vino?;Patagonia;Cuyo;Litoral;Pampa;2
+¿Qué porcentaje representa el comercio exterior en el PBI argentino?;10%;20%;30%;40%;2
+¿Qué organismo regula las políticas monetarias en Argentina?;Banco Nación;Banco Central;Ministerio de Economía;Tesoro Nacional;2
+¿Qué significa inflación?;Aumento del valor de la moneda;Pérdida del poder adquisitivo;Reducción de los precios;Incremento de la población;2
+¿Qué es el déficit fiscal?;Ingresos mayores a egresos;Egresos mayores a ingresos;Ahorro del gobierno;Producción excesiva;2
+¿Cuál es el principal socio comercial de Argentina?;Brasil;Estados Unidos;China;Uruguay;1
+¿Qué sector es clave en el Mercosur?;Industria;Agricultura;Turismo;Servicios;2

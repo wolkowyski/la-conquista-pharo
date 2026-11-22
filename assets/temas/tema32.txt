@@ -1,0 +1,21 @@
+Biología
+¿Cuál es la unidad básica de los seres vivos?;Tejido;Órgano;Célula;Sistema;3
+¿En qué parte de la célula se encuentra el ADN?;Mitocondria;Citoplasma;Núcleo;Membrana celular;3
+¿Qué proceso convierte la luz solar en energía química?;Respiración celular;Fotosíntesis;Fermentación;Oxidación;2
+¿Qué es un ecosistema?;Un organismo;Un conjunto de seres vivos e inertes interactuando;Un área desértica;Un lugar con biodiversidad;2
+¿Qué gas es necesario para la fotosíntesis?;Oxígeno;Nitrógeno;Dióxido de carbono;Hidrógeno;3
+¿Cuál es el órgano más grande del cuerpo humano?;Hígado;Cerebro;Piel;Corazón;3
+¿Qué tipo de reproducción involucra un solo organismo?;Sexual;Asexual;Vivípara;Ovípara;2
+¿Qué animales son ovíparos?;Mamíferos;Peces;Reptiles y aves;Aves y mamíferos;3
+¿En qué órgano ocurre la digestión química principal?;Estómago;Hígado;Intestino delgado;Esófago;1
+¿Qué tipo de tejido conecta músculos y huesos?;Nervioso;Conectivo;Epidérmico;Adiposo;2
+¿Cuántos cromosomas tiene una célula humana?;44;46;48;50;2
+¿Qué es un depredador?;Un consumidor primario;Un organismo que se alimenta de otros organismos;Un herbívoro;Un animal carroñero;2
+¿Qué órganos filtran la sangre en el cuerpo humano?;Pulmones;Riñones;Hígado;Páncreas;2
+¿Qué animal es un mamífero?;Tiburón;Ballena;Serpiente;Avestruz;2
+¿Qué tipo de célula carece de núcleo definido?;Eucariota;Procariota;Animal;Vegetal;2
+¿Qué es la mitosis?;La división del citoplasma;La formación de gametos;La división celular;La síntesis de proteínas;3
+¿Qué es un herbívoro?;Un animal que come carne;Un animal que come plantas;Un animal que come de todo;Un animal que no se alimenta;2
+¿Cuál es el principal componente del plasma sanguíneo?;Células;Proteínas;Agua;Azúcar;3
+¿Qué órgano produce insulina?;Hígado;Riñón;Páncreas;Intestino;3
+¿Qué sistema controla las funciones corporales involuntarias?;Digestivo;Circulatorio;Nervioso;Respiratorio;3

@@ -1,0 +1,21 @@
+Tecnología
+¿Qué es un algoritmo?;Un programa de software;Una secuencia de pasos;Un sistema operativo;Un hardware;2
+¿Quién es el creador de la World Wide Web?;Tim Berners-Lee;Bill Gates;Steve Jobs;Alan Turing;1
+¿Qué significa CPU?;Central Processing Unit;Central Processing Utility;Computer Processor Unit;Central Programming Unit;1
+¿Qué lenguaje de programación es conocido por su logotipo de café?;Python;Java;C++;Ruby;2
+¿Qué sistema operativo es de código abierto?;Windows;MacOS;Linux;iOS;3
+¿En qué año se lanzó el primer iPhone?;2005;2006;2007;2008;3
+¿Qué significa URL?;Universal Reference Locator;Uniform Resource Locator;Universal Resource Locator;Uniform Reference Locator;2
+¿Qué red social fue creada por Mark Zuckerberg?;Instagram;Facebook;Twitter;Snapchat;2
+¿Qué es la inteligencia artificial?;Un hardware;Un sistema operativo;Una máquina que aprende;Un programa matemático;3
+¿Qué es HTML?;Un lenguaje de diseño gráfico;Un lenguaje de programación;Un lenguaje de marcado;Un software de diseño;3
+¿Qué significa IoT?;Internet of Things;Internet on Time;Internet of Technology;Internet Operating Technology;1
+¿Qué software es para hojas de cálculo?;Word;Excel;PowerPoint;Access;2
+¿Quién fundó Microsoft?;Steve Jobs;Bill Gates;Elon Musk;Jeff Bezos;2
+¿Qué lenguaje de programación es usado para inteligencia artificial?;C++;Python;JavaScript;PHP;2
+¿Qué es un bit?;Un archivo digital;La unidad básica de datos;Un programa;Una imagen digital;2
+¿Qué herramienta es para el control de versiones de código?;Slack;Git;Zoom;Dropbox;2
+¿Qué compañía creó el sistema Android?;Apple;Google;Microsoft;Samsung;2
+¿En qué año se lanzó Windows 95?;1993;1994;1995;1996;3
+¿Qué es un servidor?;Un cliente de red;Un dispositivo que almacena datos y servicios;Un programa para ver páginas web;Un tipo de hardware personal;2
+¿Qué significa WiFi?;Wireless Fidelity;Wireless Finder;Wide Fidelity;Wireless Finder Interconnection;1

@@ -1,0 +1,4 @@
+fileouts/*.st -text
+assets/temas/*.txt -text
+*.pdf binary
+*.png binary

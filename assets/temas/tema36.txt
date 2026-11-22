@@ -1,0 +1,21 @@
+Historia Argentina
+¿En qué año se declaró la independencia de Argentina?;1810;1816;1820;1853;2
+¿Dónde se firmó el acta de la independencia?;Buenos Aires;Córdoba;Tucumán;Salta;3
+¿Quién fue el primer presidente de Argentina?;Bartolomé Mitre;Bernardino Rivadavia;Manuel Belgrano;Domingo Sarmiento;2
+¿En qué año se creó la bandera argentina?;1812;1810;1816;1821;1
+¿Quién lideró la campaña libertadora en los Andes?;José de San Martín;Manuel Belgrano;Juan Manuel de Rosas;Martín Miguel de Güemes;1
+¿En qué año ocurrió la Revolución de Mayo?;1806;1810;1816;1820;2
+¿Qué batalla marcó la independencia del norte argentino?;Chacabuco;Ayohuma;Tucumán;Maipú;3
+¿Quién compuso el himno nacional argentino?;Vicente López y Planes;Esteban Echeverría;Domingo Sarmiento;José Hernández;1
+¿Cuál fue el conflicto más importante del siglo XIX en Argentina?;Las guerras de independencia;La Guerra de la Triple Alianza;La Conquista del Desierto;La Revolución de Mayo;2
+¿Quién fue el líder de la Confederación Argentina en 1852?;Juan Manuel de Rosas;Bartolomé Mitre;Justo José de Urquiza;Domingo Sarmiento;3
+¿Qué presidente impulsó la educación pública en Argentina?;Domingo Sarmiento;Bernardino Rivadavia;Julio A. Roca;Hipólito Yrigoyen;1
+¿Qué fecha es feriado por la Revolución de Mayo?;9 de julio;20 de junio;25 de mayo;24 de marzo;3
+¿En qué año se sancionó la Constitución Nacional?;1810;1816;1853;1860;3
+¿Qué nombre se le dio a la presidencia de Juan Domingo Perón?;La Restauración;El Peronismo;El Primer Plan Quinquenal;El Justicialismo;4
+¿Quién lideró las campañas del desierto?;Julio A. Roca;Juan Manuel de Rosas;José de San Martín;Martín Miguel de Güemes;1
+¿En qué década se dio el golpe de estado conocido como "La Revolución Libertadora"?;1940;1950;1960;1970;2
+¿Quién escribió el Martín Fierro?;Domingo Sarmiento;José Hernández;Esteban Echeverría;Vicente López y Planes;2
+¿Qué conflicto internacional enfrentó Argentina en 1982?;La Guerra de la Triple Alianza;La Guerra del Pacífico;La Guerra de las Malvinas;La Guerra Civil;3
+¿Qué ley sancionó el voto femenino en Argentina?;Ley Sáenz Peña;Ley de Sufragio;Ley 13.010;Ley del Voto;3
+¿Cuál fue el último golpe de estado en Argentina?;1976;1982;1966;1955;1

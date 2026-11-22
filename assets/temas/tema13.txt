@@ -1,0 +1,21 @@
+Politíca Argentina
+¿En qué año se sancionó la Constitución Nacional?;1810;1816;1853;1860;3
+¿Cuál es el sistema de gobierno de Argentina?;Monarquía;Parlamentario;República Federal;Dictadura;3
+¿Quién fue el primer presidente de Argentina?;Manuel Belgrano;Bernardino Rivadavia;Bartolomé Mitre;Domingo Sarmiento;2
+¿Qué es el Congreso Nacional?;La casa del presidente;La sede de la Corte Suprema;El órgano legislativo;La casa de gobierno;3
+¿Cuántas cámaras tiene el Congreso Nacional?;1;2;3;4;2
+¿En qué ciudad se encuentra la Casa Rosada?;Córdoba;Rosario;Buenos Aires;La Plata;3
+¿Cuántos diputados tiene la Cámara de Diputados?;100;150;257;300;3
+¿Cuántos senadores tiene la Cámara de Senadores?;48;54;72;96;3
+¿Quién ejerce el poder ejecutivo en Argentina?;El Congreso;El Presidente;La Corte Suprema;El Senado;2
+¿Qué es el Poder Judicial?;El que sanciona leyes;El que administra justicia;El que recauda impuestos;El que organiza elecciones;2
+¿En qué año se instituyó el voto femenino?;1916;1947;1951;1983;2
+¿Quién fue la primera mujer en votar en Argentina?;Eva Perón;Alicia Moreau de Justo;Julieta Lanteri;Victoria Ocampo;3
+¿En qué año se sancionó la Ley Sáenz Peña?;1910;1912;1916;1920;2
+¿Qué establece la Ley Sáenz Peña?;Voto femenino;Voto secreto y obligatorio;Voto popular para extranjeros;Voto exclusivo para hombres;2
+¿Qué provincia es conocida como "cuna de la independencia"?;Córdoba;Tucumán;Salta;Buenos Aires;2
+¿Quién fue presidente durante la Primera Junta?;Cornelio Saavedra;Manuel Belgrano;Juan José Castelli;Mariano Moreno;1
+¿Cuál es el órgano máximo del Poder Judicial?;La Corte Suprema de Justicia;El Senado;El Congreso;La Cámara de Diputados;1
+¿En qué año volvió la democracia después de la dictadura militar?;1976;1983;1986;1990;2
+¿Qué partido político fundó Juan Domingo Perón?;UCR;Partido Justicialista;Frente de Todos;PRO;2
+¿Quién fue el presidente durante la crisis de 2001?;Fernando de la Rúa;Eduardo Duhalde;Carlos Menem;Néstor Kirchner;1
