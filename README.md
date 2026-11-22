@@ -10,6 +10,13 @@ Made by **Los Imaginadores**: Juan Manuel Giraudo, María Eugenia Sánchez, Ulis
 
 > The game, the code and the docs are in Spanish. This README is in English.
 
+**[⬇ Download for Windows](https://github.com/wolkowyski/la-conquista-pharo/releases/latest)**: unzip it and double-click `Jugar.bat`. Pharo comes bundled, so there's nothing to install.
+
+<p align="center">
+  <img src="screenshots/main-menu.png" width="49%" alt="Main menu">
+  <img src="screenshots/instructions.png" width="49%" alt="Instructions window">
+</p>
+
 ## How the game works
 
 - The board holds **16 players**, each starting on one square with a **theme** (Matemáticas, Historia Argentina, Física, Cine Argentino…).
@@ -86,6 +93,16 @@ classDiagram
 
 ## Running it
 
+### Windows build
+
+1. Download `LaConquista-Windows-x64.zip` from the [latest release](https://github.com/wolkowyski/la-conquista-pharo/releases/latest) and unzip it.
+2. Double-click `Jugar.bat`. The game menu opens inside Pharo.
+3. Open the Transcript (`Ctrl+O` `Ctrl+T`) to follow the duels, then click **Iniciar Juego**.
+
+The zip contains the official Pharo 9.0.22 VM, a clean Pharo 9.0 image with the game loaded from `src/`, and the assets. If you start the VM by hand, `--interactive` must go **after** the image name (`Pharo.exe LaConquista.image --interactive`), or Pharo 9 starts without a window.
+
+### From source
+
 You need [Pharo Launcher](https://pharo.org/download).
 
 1. In Pharo Launcher, create a new image from **Official distributions → Pharo 9.0 - 64bit** and launch it.
@@ -118,6 +135,7 @@ If you'd rather not use Metacello, drag [`fileouts/A-TRABAJOPARADIGMAS.st`](file
 | [`assets/temas/`](assets/temas) | Question banks: 16 themes with about 20 questions each (files 17–64 repeat them, for a planned 8×8 board) |
 | [`assets/*.png`](assets) | Backgrounds for the main menu, instructions and about windows |
 | [`docs/`](docs) | The project papers and team documents (Spanish) |
+| [`screenshots/`](screenshots) | Screenshots for this README |
 
 ## Documentation
 
